@@ -1,0 +1,9 @@
+div{
+    border: 1px dotted black;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    
+}
